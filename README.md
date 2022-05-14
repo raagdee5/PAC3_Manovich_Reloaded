@@ -16,3 +16,6 @@ La hibridació es la combinació de diferents elements tecnnologics en un unic m
 
 Per descomptat en els casos que plantejo jo ambes tecnologies han anat evolucionant i s'han combinat durant tots aquest anys. La **Realitat Virtual** per exemple no només s'utilitza adequadament per l'ocí als videojocs amb tota l'evolució ara pot tenir ús educatiu, sanitari, social etc..
 Amb  **l'Unreal Engine 5**  clarament la facilitat per desenvolupar un videojoc les eines que donen comparades amb la de programes anteriors son molt mes facils.
+
+
+# Re-descobrint la hibridació: Unreal Engine 5
