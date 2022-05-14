@@ -29,3 +29,5 @@ Per començar a parlar del motor gràfic hem de dir que es totalment gratuit i a
 - **Nanite**: Tecnologia de geometria, el seu objectiu es la creació de models amb un gran nivell de detall. Es degut a que pot desplegar milions de poligons per un personatje objecte o escenari. L'ús de Nanite probablement ho veurem també en producccions cinematografiques on no requereixi els procesos de temps real.
 
 > Nanite es el nuevo sistema de geometría virtualizada de Unreal Engine 5 que utiliza un nuevo formato de malla interna y tecnología de renderizado para renderizar detalles a escala de píxeles y una gran cantidad de objetos.
+
+- **Mass AI**: Es un nou pas per la realitat virtual, un sistema que permetra als desarrolladors omplir els seus mons oberts de personatjes dinamics i diferents. Es pot traduir com mons oberts molt mes dinamics.  
