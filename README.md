@@ -20,4 +20,5 @@ Amb  **l'Unreal Engine 5**  clarament la facilitat per desenvolupar un videojoc 
 
 ## Re-descobrint la hibridació: Unreal Engine 5
 
-Per començar a parlar del motor gràfic hem de dir que es totalment gratuit i aixó es una cosa bastant important ja que cualsevol persona pot apendre i utilitzar el programa sense problemes. 
+Per començar a parlar del motor gràfic hem de dir que es totalment gratuit i aixó es una cosa bastant important ja que qualsevol persona pot apendre i utilitzar el programa sense problemes. Es una eina >**d'Epic Games** 
+
