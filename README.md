@@ -1,2 +1,2 @@
-#PAC3: Visionant el futur amb les ulleres de Manovich
+# PAC3: Visionant el futur amb les ulleres de Manovich
 
