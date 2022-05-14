@@ -25,7 +25,6 @@ Per començar a parlar del motor gràfic hem de dir que es totalment gratuit i a
 - **Temporal Super Resolution**: Es una de les funcions mes revolucionaries en el mon dels videojocs, es una proposta que defineix el rendiment i que te la mateixa importancia que l'iluminació i el sombrejat. Amb **TSR** podrem arribar a resolucions molt mes altes, com per exemple el 4k quan la base es 1080p. Aquesta tecnologia no depen de Nvidia ni AMD. Tot aixo es tradueix a una millor fidelitat d'imatge (sobretot a jugadors de PC).
 
 - **Lumen**: Es un sistema d'iluminació global i dinamic. Llavors **UE5** sera capaç de generar reflexes de llum produits per objectes amb rebots infinits. Aixo fara que els desenvolupadors evitin els mapas de llum. El lumen no esta subjecte unicament a les capacitats del hardware.
-![ Video UE5](https://www.youtube.com/watch?v=qC5KtatMcUw&t=1s)
 
-- 
-
+- **Nanite**: Tecnologia de geometria, el seu objectiu es la creació de models amb un gran nivell de detall. Es degut a que pot desplegar milions de poligons per un personatje objecte o escenari. 
+> Nanite es el nuevo sistema de geometría virtualizada de Unreal Engine 5 que utiliza un nuevo formato de malla interna y tecnología de renderizado para renderizar detalles a escala de píxeles y una gran cantidad de objetos.
