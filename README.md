@@ -10,7 +10,7 @@ Data: 14/05/2022
 
 
 
-## Plantejament
+### Plantejament
 La hibridació es la combinació de diferents elements tecnnologics en un unic medi o entorn digital.
 
 
@@ -18,4 +18,4 @@ Per descomptat en els casos que plantejo jo ambes tecnologies han anat evolucion
 Amb  **l'Unreal Engine 5**  clarament la facilitat per desenvolupar un videojoc les eines que donen comparades amb la de programes anteriors son molt mes facils.
 
 
-# Re-descobrint la hibridació: Unreal Engine 5
+## Re-descobrint la hibridació: Unreal Engine 5
