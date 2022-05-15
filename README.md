@@ -73,3 +73,7 @@ Característiques de la **Realitat Virtual**
 
 - *tecnologia-informatica*  - [en linea] [14/05/22]. Disponible a: https://www.tecnologia-informatica.com/realidad-virtual-caracteristicas-objetivos-historia-lentes-juegos/
 
+- *MAWI United GmbH* - [ Video en linea]. 2021 [14/05/22]. Disponible a: https://www.youtube.com/watch?v=O8U8tD1_dqE&t=2s
+
+- *BRIGHT SIDE* - [ Video en linea]. 2020 [14/05/22]. Disponible a: https://www.youtube.com/watch?v=ZvZ7da8JBUk
+
