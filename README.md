@@ -64,6 +64,12 @@ Característiques de la **Realitat Virtual**
 ## Referencies i Bibliografia:
 
 - Manovich, Lev. (2013). **El Software toma el mando.** Editorial UOC
+
 - *Acdesdigital* - [en linea] [14/05/22]. Disponible a: https://acdesdigital.org/realidad-virtual-fantasia-en-realidad/#:~:text=Principales%20caracter%C3%ADsticas,se%20ejecuta%20en%20tiempo%20real.
+
 - *Hipertextual* - [en linea] [14/05/22]. Disponible a: https://hipertextual.com/2022/04/unreal-engine-5-5-caracteristicas-revolucionaran-videojuegos
+
 - *Quasardynamic* - [en linea] [14/05/22]. Disponible a: https://quasardynamics.com/principales-caracteristicas-de-unreal-engine-5/
+
+- *tecnologia-informatica*  - [en linea] [14/05/22]. Disponible a: https://www.tecnologia-informatica.com/realidad-virtual-caracteristicas-objetivos-historia-lentes-juegos/
+
