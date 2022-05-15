@@ -53,3 +53,5 @@ Caracteristiques de la **Realitat Virtual**
 2. ***Interacció***: Interactuar amb l'escena controlant els elements que es troben dintre de la misma. Tenir capacitat per aixecar objectes interacctuar amb personatges etc.
 3. ***Historia***: Aquest es el tema pendent dintre de la **RV**. Crear experiencias impulsades per historiés sera la millor forma d'atreure usuaris. 
 
+![Realitat Virtual](https://futuroelectrico.com/wp-content/uploads/2020/08/realidad-virtual.jpg)
+
