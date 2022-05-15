@@ -37,7 +37,10 @@ Per començar a parlar del motor gràfic hem de dir que és totalment gratuït i
 ## Re-descobrint la hibridació: Realitat Virtual
 
 La RAE defineix la realitat virtual com: 
-> Representación de escenas o imágenes de objetos producida por un sistema informático, que da la sensación de su existencia real”. Podemos decir que la VR, acrónimo del inglés Virtual Reality, consiste en la inmersión sensorial en un nuevo entorno, que puede estar basado en un entorno real o no, que ha sido generado de forma artificial, y que es posible percibir gracias a la utilización de ciertos accesorios como gafas de realidad virtual, cascos de audio, trajes y guantes especiales, etc
+> Representación de escenas o imágenes de objetos producida por un sistema informático, que da la sensación de su existencia real”. Podemos decir que la VR, acrónimo del inglés Virtual Reality, consiste en la inmersión sensorial en un nuevo entorno, que puede estar basado en un entorno real o no, que ha sido generado de forma artificial, y que es posible percibir gracias a la utilización de ciertos accesorios como gafas de realidad virtual, cascos de audio, trajes y guantes especiales, etc.
+
+Per descomptat les utilitats de la **RV** en l'actualitat no només són d'oci, els seus aventatges es poden utilitzar també en salut i educació.
+
 
 Com també va passar amb internet o els dispositius mòbils, la **RV** suposa un dels canvis tecnològics més importants dels últims anys. L'atractiu més gros és probablement la capacitat de desenvolupar tota la creativitat i on la imaginació no te límits.
 
@@ -54,4 +57,8 @@ Caracteristiques de la **Realitat Virtual**
 3. ***Historia***: Aquest es el tema pendent dintre de la **RV**. Crear experiencias impulsades per historiés sera la millor forma d'atreure usuaris. 
 
 ![Realitat Virtual](https://futuroelectrico.com/wp-content/uploads/2020/08/realidad-virtual.jpg)
+
+[Rollercoaster **VR**](https://www.youtube.com/watch?v=ZvZ7da8JBUk)
+
+
 
