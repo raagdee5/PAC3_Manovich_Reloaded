@@ -58,7 +58,7 @@ Característiques de la **Realitat Virtual**
 
 ![Realitat Virtual](https://futuroelectrico.com/wp-content/uploads/2020/08/realidad-virtual.jpg)
 
-[Rollercoaster **VR**](https://www.youtube.com/watch?v=ZvZ7da8JBUk)
+[Exemple immersiu: Rollercoaster **VR**](https://www.youtube.com/watch?v=ZvZ7da8JBUk)
 
 
 
