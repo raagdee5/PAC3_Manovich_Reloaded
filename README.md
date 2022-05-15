@@ -32,4 +32,4 @@ Per començar a parlar del motor gràfic hem de dir que es totalment gratuit i a
 
 - **Mass AI**: Es un nou pas per la realitat virtual, un sistema que permetra als desarrolladors omplir els seus mons oberts de personatjes dinamics i diferents. Es pot traduir com mons oberts molt mes dinamics.  
 
-                                         [Video exemple](https://www.youtube.com/watch?v=O8U8tD1_dqE&t=2s)
+[Video exemple](https://www.youtube.com/watch?v=O8U8tD1_dqE&t=2s)
