@@ -35,6 +35,7 @@ Per començar a parlar del motor gràfic hem de dir que és totalment gratuït i
 
 
 ## Re-descobrint la hibridació: Realitat Virtual
+
 La RAE defineix la realitat virtual com: 
 > Representación de escenas o imágenes de objetos producida por un sistema informático, que da la sensación de su existencia real”. Podemos decir que la VR, acrónimo del inglés Virtual Reality, consiste en la inmersión sensorial en un nuevo entorno, que puede estar basado en un entorno real o no, que ha sido generado de forma artificial, y que es posible percibir gracias a la utilización de ciertos accesorios como gafas de realidad virtual, cascos de audio, trajes y guantes especiales, etc
 
@@ -42,4 +43,13 @@ Com també va passar amb internet o els dispositius mòbils, la **RV** suposa un
 
 Hi ha 2 tipus de realitat virtual:
 
-- Realitat immersiva: Permet que els usuaris perceben que són dins l'entorn virtual tridimensional generat artificialment. S'utilitzen diversos dispositius com les ulleres **VR**, guants, accessoris per capturar posicions i moviments,
+- Realitat immersiva: Permet que els usuaris perceben que són dins l'entorn virtual tridimensional generat artificialment. S'utilitzen diversos dispositius com les ulleres **VR**, guants, accessoris per capturar posicions i moviments que realitza la persona amb el seu cos, per ser representat a l'entorn de realitat virtual.
+
+- Realitat Virtual no immersiva: Nomès s'utilitza l'ordinador o mòbil, aquest tipus de **RV** està molt difundida i acceptada; funciona representant un entorn irreal en una finestra dins l'ordinador o el mòbil. És més econòmica i s'utilitza en molts videojocs que es comercialitzen a l'actualitat.
+
+Caracteristiques de la **Realitat Virtual**
+
+1. *Immersió*: Sumergir a l'usuari en un ambient simulat, es a dir, omplir la seva visió periferica utilitzant les eines necessaries. 
+2. *Interacció*: Interactuar amb l'escena controlant els elements que es troben dintre de la misma. Tenir capacitat per aixecar objectes interacctuar amb personatges etc.
+3. *Historia*: Aquest es el tema pendent dintre de la **RV**. Crear experiencias impulsades per historiés sera la millor forma d'atreure usuaris. 
+
